@@ -168,7 +168,7 @@ namespace G6_ENUNCIADO_2
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(98, 44);
             this.btnLimpiar.TabIndex = 11;
-            this.btnLimpiar.Text = "Ingresar nuevos datos";
+            this.btnLimpiar.Text = "Ingresar Datos";
             this.btnLimpiar.UseVisualStyleBackColor = true;
             this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
