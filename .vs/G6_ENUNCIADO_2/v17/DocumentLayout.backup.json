@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\FUNDAMENTOS DE PROGRAMACION\\t2\\G6_ENUNCIADO_2\\",
+  "WorkspaceRootPath": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\github\\Practicas_de_Campo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8956A547-6165-4060-881A-4423990EE8CD}|G6_ENUNCIADO_2\\G6_ENUNCIADO_2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\FUNDAMENTOS DE PROGRAMACION\\t2\\G6_ENUNCIADO_2\\g6_enunciado_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8956A547-6165-4060-881A-4423990EE8CD}|G6_ENUNCIADO_2\\G6_ENUNCIADO_2.csproj|c:\\users\\angelina casas\\onedrive - universidad privada del norte\\documents\\github\\practicas_de_campo\\g6_enunciado_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8956A547-6165-4060-881A-4423990EE8CD}|G6_ENUNCIADO_2\\G6_ENUNCIADO_2.csproj|solutionrelative:g6_enunciado_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8956A547-6165-4060-881A-4423990EE8CD}|G6_ENUNCIADO_2\\G6_ENUNCIADO_2.csproj|c:\\users\\angelina casas\\onedrive - universidad privada del norte\\documents\\fundamentos de programacion\\t2\\g6_enunciado_2\\g6_enunciado_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8956A547-6165-4060-881A-4423990EE8CD}|G6_ENUNCIADO_2\\G6_ENUNCIADO_2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\github\\Practicas_de_Campo\\g6_enunciado_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8956A547-6165-4060-881A-4423990EE8CD}|G6_ENUNCIADO_2\\G6_ENUNCIADO_2.csproj|solutionrelative:g6_enunciado_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,10 +24,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\FUNDAMENTOS DE PROGRAMACION\\t2\\G6_ENUNCIADO_2\\G6_ENUNCIADO_2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\github\\Practicas_de_Campo\\G6_ENUNCIADO_2\\Form1.cs",
               "RelativeDocumentMoniker": "G6_ENUNCIADO_2\\Form1.cs",
-              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\FUNDAMENTOS DE PROGRAMACION\\t2\\G6_ENUNCIADO_2\\G6_ENUNCIADO_2\\Form1.cs",
-              "RelativeToolTip": "G6_ENUNCIADO_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\github\\Practicas_de_Campo\\G6_ENUNCIADO_2\\Form1.cs*",
+              "RelativeToolTip": "G6_ENUNCIADO_2\\Form1.cs*",
               "ViewState": "AgIAAHoAAAAAAAAAAAAhwLQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T21:04:14.596Z",
@@ -37,10 +37,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\FUNDAMENTOS DE PROGRAMACION\\t2\\G6_ENUNCIADO_2\\G6_ENUNCIADO_2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\github\\Practicas_de_Campo\\G6_ENUNCIADO_2\\Form1.cs",
               "RelativeDocumentMoniker": "G6_ENUNCIADO_2\\Form1.cs",
-              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\FUNDAMENTOS DE PROGRAMACION\\t2\\G6_ENUNCIADO_2\\G6_ENUNCIADO_2\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "G6_ENUNCIADO_2\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\github\\Practicas_de_Campo\\G6_ENUNCIADO_2\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "G6_ENUNCIADO_2\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T21:04:07.976Z",
               "EditorCaption": " [Dise\u00F1o]"
