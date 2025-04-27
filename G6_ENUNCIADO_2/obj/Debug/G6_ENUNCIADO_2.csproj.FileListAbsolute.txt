@@ -1,0 +1,30 @@
+C:\Users\Usuario\Desktop\UPN\3ER CICLO\FUNDA PROGRAM\G6_ENUNCIADO_2\G6_ENUNCIADO_2\bin\Debug\G6_ENUNCIADO_2.exe.config
+C:\Users\Usuario\Desktop\UPN\3ER CICLO\FUNDA PROGRAM\G6_ENUNCIADO_2\G6_ENUNCIADO_2\bin\Debug\G6_ENUNCIADO_2.exe
+C:\Users\Usuario\Desktop\UPN\3ER CICLO\FUNDA PROGRAM\G6_ENUNCIADO_2\G6_ENUNCIADO_2\bin\Debug\G6_ENUNCIADO_2.pdb
+C:\Users\Usuario\Desktop\UPN\3ER CICLO\FUNDA PROGRAM\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UPN\3ER CICLO\FUNDA PROGRAM\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.Lista.resources
+C:\Users\Usuario\Desktop\UPN\3ER CICLO\FUNDA PROGRAM\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UPN\3ER CICLO\FUNDA PROGRAM\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\UPN\3ER CICLO\FUNDA PROGRAM\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UPN\3ER CICLO\FUNDA PROGRAM\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.exe
+C:\Users\Usuario\Desktop\UPN\3ER CICLO\FUNDA PROGRAM\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.pdb
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\bin\Debug\G6_ENUNCIADO_2.exe.config
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\bin\Debug\G6_ENUNCIADO_2.exe
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\bin\Debug\G6_ENUNCIADO_2.pdb
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.csproj.AssemblyReference.cache
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.Lista.resources
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.Properties.Resources.resources
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.csproj.GenerateResource.cache
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.csproj.CoreCompileInputs.cache
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.exe
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.pdb
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\FUNDAMENTOS DE PROGRAMACION\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\bin\Debug\G6_ENUNCIADO_2.exe.config
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\FUNDAMENTOS DE PROGRAMACION\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\bin\Debug\G6_ENUNCIADO_2.exe
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\FUNDAMENTOS DE PROGRAMACION\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\bin\Debug\G6_ENUNCIADO_2.pdb
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\FUNDAMENTOS DE PROGRAMACION\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.csproj.AssemblyReference.cache
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\FUNDAMENTOS DE PROGRAMACION\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.Lista.resources
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\FUNDAMENTOS DE PROGRAMACION\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.Properties.Resources.resources
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\FUNDAMENTOS DE PROGRAMACION\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.csproj.GenerateResource.cache
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\FUNDAMENTOS DE PROGRAMACION\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.csproj.CoreCompileInputs.cache
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\FUNDAMENTOS DE PROGRAMACION\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.exe
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\FUNDAMENTOS DE PROGRAMACION\t2\G6_ENUNCIADO_2\G6_ENUNCIADO_2\obj\Debug\G6_ENUNCIADO_2.pdb
