@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\BRYAN\\Documents\\Nueva carpeta\\Practicas_de_Campo\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{8956A547-6165-4060-881A-4423990EE8CD}|G6_ENUNCIADO_2\\G6_ENUNCIADO_2.csproj|c:\\users\\bryan\\documents\\nueva carpeta\\practicas_de_campo\\g6_enunciado_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8956A547-6165-4060-881A-4423990EE8CD}|G6_ENUNCIADO_2\\G6_ENUNCIADO_2.csproj|solutionrelative:g6_enunciado_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8956A547-6165-4060-881A-4423990EE8CD}|G6_ENUNCIADO_2\\G6_ENUNCIADO_2.csproj|C:\\Users\\BRYAN\\Documents\\Nueva carpeta\\Practicas_de_Campo\\g6_enunciado_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{8956A547-6165-4060-881A-4423990EE8CD}|G6_ENUNCIADO_2\\G6_ENUNCIADO_2.csproj|c:\\users\\angelina casas\\onedrive - universidad privada del norte\\documents\\fundamentos de programacion\\t2\\g6_enunciado_2\\g6_enunciado_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8956A547-6165-4060-881A-4423990EE8CD}|G6_ENUNCIADO_2\\G6_ENUNCIADO_2.csproj|solutionrelative:g6_enunciado_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956A547-6165-4060-881A-4423990EE8CD}|G6_ENUNCIADO_2\\G6_ENUNCIADO_2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\FUNDAMENTOS DE PROGRAMACION\\t2\\G6_ENUNCIADO_2\\g6_enunciado_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 17f9b363431608e62f4db171b075d44fe1878584
       "RelativeMoniker": "D:0:0:{8956A547-6165-4060-881A-4423990EE8CD}|G6_ENUNCIADO_2\\G6_ENUNCIADO_2.csproj|solutionrelative:g6_enunciado_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
