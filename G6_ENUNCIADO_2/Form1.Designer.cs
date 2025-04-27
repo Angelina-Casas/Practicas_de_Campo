@@ -194,11 +194,11 @@ namespace G6_ENUNCIADO_2
             // btnCerrar
             // 
             this.btnCerrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCerrar.Location = new System.Drawing.Point(562, 321);
+            this.btnCerrar.Location = new System.Drawing.Point(552, 321);
             this.btnCerrar.Name = "btnCerrar";
             this.btnCerrar.Size = new System.Drawing.Size(88, 44);
             this.btnCerrar.TabIndex = 14;
-            this.btnCerrar.Text = "Cerrar";
+            this.btnCerrar.Text = "Salir";
             this.btnCerrar.UseVisualStyleBackColor = true;
             this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
             // 
