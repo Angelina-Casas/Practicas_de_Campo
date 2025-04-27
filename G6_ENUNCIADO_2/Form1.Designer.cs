@@ -57,7 +57,7 @@ namespace G6_ENUNCIADO_2
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Números});
             this.dataGridView1.Location = new System.Drawing.Point(711, 36);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.Size = new System.Drawing.Size(179, 329);
@@ -75,7 +75,7 @@ namespace G6_ENUNCIADO_2
             this.G6_BtnInsertar.BackColor = System.Drawing.Color.Gold;
             this.G6_BtnInsertar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.G6_BtnInsertar.Location = new System.Drawing.Point(37, 80);
-            this.G6_BtnInsertar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.G6_BtnInsertar.Margin = new System.Windows.Forms.Padding(4);
             this.G6_BtnInsertar.Name = "G6_BtnInsertar";
             this.G6_BtnInsertar.Size = new System.Drawing.Size(276, 28);
             this.G6_BtnInsertar.TabIndex = 1;
@@ -86,7 +86,7 @@ namespace G6_ENUNCIADO_2
             // textMostrar
             // 
             this.textMostrar.Location = new System.Drawing.Point(337, 85);
-            this.textMostrar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textMostrar.Margin = new System.Windows.Forms.Padding(4);
             this.textMostrar.Name = "textMostrar";
             this.textMostrar.Size = new System.Drawing.Size(325, 22);
             this.textMostrar.TabIndex = 2;
@@ -96,7 +96,7 @@ namespace G6_ENUNCIADO_2
             this.G6_BtnAscendente.BackColor = System.Drawing.Color.Gold;
             this.G6_BtnAscendente.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.G6_BtnAscendente.Location = new System.Drawing.Point(37, 146);
-            this.G6_BtnAscendente.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.G6_BtnAscendente.Margin = new System.Windows.Forms.Padding(4);
             this.G6_BtnAscendente.Name = "G6_BtnAscendente";
             this.G6_BtnAscendente.Size = new System.Drawing.Size(276, 30);
             this.G6_BtnAscendente.TabIndex = 3;
@@ -107,7 +107,7 @@ namespace G6_ENUNCIADO_2
             // ResulAscen
             // 
             this.ResulAscen.Location = new System.Drawing.Point(337, 150);
-            this.ResulAscen.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.ResulAscen.Margin = new System.Windows.Forms.Padding(4);
             this.ResulAscen.Name = "ResulAscen";
             this.ResulAscen.Size = new System.Drawing.Size(325, 22);
             this.ResulAscen.TabIndex = 4;
@@ -117,7 +117,7 @@ namespace G6_ENUNCIADO_2
             this.G6_BtnDescendente.BackColor = System.Drawing.Color.Gold;
             this.G6_BtnDescendente.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.G6_BtnDescendente.Location = new System.Drawing.Point(37, 212);
-            this.G6_BtnDescendente.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.G6_BtnDescendente.Margin = new System.Windows.Forms.Padding(4);
             this.G6_BtnDescendente.Name = "G6_BtnDescendente";
             this.G6_BtnDescendente.Size = new System.Drawing.Size(276, 32);
             this.G6_BtnDescendente.TabIndex = 5;
@@ -128,7 +128,7 @@ namespace G6_ENUNCIADO_2
             // txtResulDesn
             // 
             this.txtResulDesn.Location = new System.Drawing.Point(337, 217);
-            this.txtResulDesn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtResulDesn.Margin = new System.Windows.Forms.Padding(4);
             this.txtResulDesn.Name = "txtResulDesn";
             this.txtResulDesn.Size = new System.Drawing.Size(325, 22);
             this.txtResulDesn.TabIndex = 6;
@@ -138,7 +138,7 @@ namespace G6_ENUNCIADO_2
             this.G6_BtnBuscar.BackColor = System.Drawing.Color.Gold;
             this.G6_BtnBuscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.G6_BtnBuscar.Location = new System.Drawing.Point(37, 277);
-            this.G6_BtnBuscar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.G6_BtnBuscar.Margin = new System.Windows.Forms.Padding(4);
             this.G6_BtnBuscar.Name = "G6_BtnBuscar";
             this.G6_BtnBuscar.Size = new System.Drawing.Size(276, 30);
             this.G6_BtnBuscar.TabIndex = 7;
@@ -149,7 +149,7 @@ namespace G6_ENUNCIADO_2
             // txtNumero
             // 
             this.txtNumero.Location = new System.Drawing.Point(337, 282);
-            this.txtNumero.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtNumero.Margin = new System.Windows.Forms.Padding(4);
             this.txtNumero.Name = "txtNumero";
             this.txtNumero.Size = new System.Drawing.Size(325, 22);
             this.txtNumero.TabIndex = 8;
@@ -169,7 +169,7 @@ namespace G6_ENUNCIADO_2
             // 
             this.pictureBox1.Image = global::G6_ENUNCIADO_2.Properties.Resources.logo_4;
             this.pictureBox1.Location = new System.Drawing.Point(36, 15);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(132, 50);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -180,7 +180,7 @@ namespace G6_ENUNCIADO_2
             // 
             this.btnLimpiar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLimpiar.Location = new System.Drawing.Point(79, 395);
-            this.btnLimpiar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLimpiar.Margin = new System.Windows.Forms.Padding(4);
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(131, 54);
             this.btnLimpiar.TabIndex = 11;
@@ -193,7 +193,7 @@ namespace G6_ENUNCIADO_2
             this.btnEliminar.BackColor = System.Drawing.Color.Gold;
             this.btnEliminar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEliminar.Location = new System.Drawing.Point(37, 337);
-            this.btnEliminar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnEliminar.Margin = new System.Windows.Forms.Padding(4);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(276, 28);
             this.btnEliminar.TabIndex = 12;
@@ -204,7 +204,7 @@ namespace G6_ENUNCIADO_2
             // txtEliminar
             // 
             this.txtEliminar.Location = new System.Drawing.Point(337, 340);
-            this.txtEliminar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtEliminar.Margin = new System.Windows.Forms.Padding(4);
             this.txtEliminar.Name = "txtEliminar";
             this.txtEliminar.Size = new System.Drawing.Size(325, 22);
             this.txtEliminar.TabIndex = 13;
@@ -213,7 +213,7 @@ namespace G6_ENUNCIADO_2
             // 
             this.btnCerrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCerrar.Location = new System.Drawing.Point(749, 395);
-            this.btnCerrar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnCerrar.Margin = new System.Windows.Forms.Padding(4);
             this.btnCerrar.Name = "btnCerrar";
             this.btnCerrar.Size = new System.Drawing.Size(141, 54);
             this.btnCerrar.TabIndex = 14;
@@ -224,8 +224,9 @@ namespace G6_ENUNCIADO_2
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.Gold;
+            this.button1.Font = new System.Drawing.Font("Ravie", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(261, 404);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(451, 38);
             this.button1.TabIndex = 15;
@@ -255,7 +256,7 @@ namespace G6_ENUNCIADO_2
             this.Controls.Add(this.textMostrar);
             this.Controls.Add(this.G6_BtnInsertar);
             this.Controls.Add(this.dataGridView1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Lista";
             this.Text = "Lista";
             this.Load += new System.EventHandler(this.Lista_Load);
