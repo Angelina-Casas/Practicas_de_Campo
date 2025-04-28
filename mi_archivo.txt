@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Contenido inicial del archivo
+Otro cambio diferente en main
+=======
+Cambio realizado en mi rama-casas
+>>>>>>> Rama-Casas
